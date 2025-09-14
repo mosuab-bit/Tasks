@@ -74,7 +74,7 @@ namespace Task6
 
         static void Main(string[] args)
         {
-            CheckSeat(0);
+            CheckSeat(3);
         }
     }
 }
